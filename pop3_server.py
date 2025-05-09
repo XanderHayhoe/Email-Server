@@ -1,0 +1,1 @@
+# connect via pop3 client to this server using cli
